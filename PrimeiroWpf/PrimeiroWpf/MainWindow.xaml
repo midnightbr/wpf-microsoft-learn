@@ -6,7 +6,7 @@
         xmlns:local="clr-namespace:PrimeiroWpf"
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
-    <Grid Margin="25" Background="Gray">
+    <Grid Margin="10"  Background="Gray">
         <!-- Criando e definindo linhas dentro do Grid -->
         <Grid.RowDefinitions>
             <RowDefinition Height="Auto"/>
@@ -21,16 +21,62 @@
         <!-- O empilhamento padrão do StackPanel é Vertical, no entanto, pode
         alterar a orientação da pilhe para horizontal, alterando a propriedade
         Orientation-->
-        <StackPanel Orientation="Horizontal"  VerticalAlignment="Center" HorizontalAlignment="Center">
-            <Rectangle Width="100" Height="100" Fill="LightBlue"/>
-            <Rectangle Width="100" Height="100" Fill="Blue"/>
+        <StackPanel Orientation="Horizontal"  VerticalAlignment="Top" HorizontalAlignment="Center">
+            <Rectangle Width="100" 
+                       Height="100" 
+                       Fill="Green" 
+                       Margin="20"/>
+            
+            <Rectangle Width="100" 
+                       Height="100"
+                       Fill="Blue"/>
         </StackPanel>
         
         <!-- Todo elemento por padrão é definido na Grid.Row 0 e Grid.Column 0,
         no qual, se queremos que ela vá para outra linha ou coluna, devemos 
         colocar isso no objeto, como nos exemplos abaixo:-->
-        <Rectangle Width="150" Height="150" Fill="Red" Grid.Row="1"/>
-        <Rectangle Width="150" Height="150" Fill="Black" Grid.Column="1"/>
-        <Rectangle Width="150" Height="150" Fill="Blue" Grid.Row="1" Grid.Column="1"/>
+        <Rectangle Width="150" 
+                   Height="150" 
+                   Fill="Red" 
+                   Grid.Row="1"/>
+        
+        <Rectangle Width="50" 
+                   Height="50" 
+                   Fill="White" 
+                   Grid.Row="1"/>
+
+        <!-- Obs.: Em um controle de layout como Grid, a ordem em que os controles são 
+        definidos no código é a ordem das camadas que eles têm na interface 
+        do usuário.-->
+        
+        <Rectangle Width="200" 
+                   Height="200" 
+                   Fill="Black" 
+                   Grid.Column="1"/>
+        
+        <Rectangle Width="200" 
+                   Height="200" 
+                   Fill="LightBlue" 
+                   Grid.Row="1" 
+                   Grid.Column="1"/>
+        
+        <!-- Adicionando uma caixa de texto -->
+        <TextBlock Text="I'm a TextBlock" 
+                   FontSize="25"
+                   FontWeight="Bold"
+                   FontFamily="Century"
+                   VerticalAlignment="Center"
+                   HorizontalAlignment="Right"
+                   Margin="25"
+                   Grid.Row="1"
+                   Grid.Column="1"/>
+
+        <Button Content="I'm a Button" 
+                HorizontalAlignment="Center" 
+                VerticalAlignment="Bottom"
+                Margin="20"
+                FontSize="20"
+                FontWeight="SemiBold"
+                FontFamily="Arial"/>
     </Grid>
 </Window>
