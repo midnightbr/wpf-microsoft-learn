@@ -1,0 +1,16 @@
+C:\Users\marco\OneDrive\Documentos\GitHub\CSharp-Learn\CalculadoraWpf\CalculadoraWpf\obj\Debug\CalculadoraWpf.csproj.AssemblyReference.cache
+C:\Users\marco\OneDrive\Documentos\GitHub\CSharp-Learn\CalculadoraWpf\CalculadoraWpf\obj\Debug\CalculadoraWpf.csproj.SuggestedBindingRedirects.cache
+C:\Users\marco\OneDrive\Documentos\GitHub\CSharp-Learn\CalculadoraWpf\CalculadoraWpf\obj\Debug\MainWindow.g.cs
+C:\Users\marco\OneDrive\Documentos\GitHub\CSharp-Learn\CalculadoraWpf\CalculadoraWpf\obj\Debug\App.g.cs
+C:\Users\marco\OneDrive\Documentos\GitHub\CSharp-Learn\CalculadoraWpf\CalculadoraWpf\obj\Debug\CalculadoraWpf_MarkupCompile.cache
+C:\Users\marco\OneDrive\Documentos\GitHub\CSharp-Learn\CalculadoraWpf\CalculadoraWpf\obj\Debug\CalculadoraWpf_MarkupCompile.lref
+C:\Users\marco\OneDrive\Documentos\GitHub\CSharp-Learn\CalculadoraWpf\CalculadoraWpf\bin\Debug\CalculadoraWpf.exe.config
+C:\Users\marco\OneDrive\Documentos\GitHub\CSharp-Learn\CalculadoraWpf\CalculadoraWpf\bin\Debug\CalculadoraWpf.exe
+C:\Users\marco\OneDrive\Documentos\GitHub\CSharp-Learn\CalculadoraWpf\CalculadoraWpf\bin\Debug\CalculadoraWpf.pdb
+C:\Users\marco\OneDrive\Documentos\GitHub\CSharp-Learn\CalculadoraWpf\CalculadoraWpf\obj\Debug\MainWindow.baml
+C:\Users\marco\OneDrive\Documentos\GitHub\CSharp-Learn\CalculadoraWpf\CalculadoraWpf\obj\Debug\CalculadoraWpf.g.resources
+C:\Users\marco\OneDrive\Documentos\GitHub\CSharp-Learn\CalculadoraWpf\CalculadoraWpf\obj\Debug\CalculadoraWpf.Properties.Resources.resources
+C:\Users\marco\OneDrive\Documentos\GitHub\CSharp-Learn\CalculadoraWpf\CalculadoraWpf\obj\Debug\CalculadoraWpf.csproj.GenerateResource.cache
+C:\Users\marco\OneDrive\Documentos\GitHub\CSharp-Learn\CalculadoraWpf\CalculadoraWpf\obj\Debug\CalculadoraWpf.csproj.CoreCompileInputs.cache
+C:\Users\marco\OneDrive\Documentos\GitHub\CSharp-Learn\CalculadoraWpf\CalculadoraWpf\obj\Debug\CalculadoraWpf.exe
+C:\Users\marco\OneDrive\Documentos\GitHub\CSharp-Learn\CalculadoraWpf\CalculadoraWpf\obj\Debug\CalculadoraWpf.pdb
