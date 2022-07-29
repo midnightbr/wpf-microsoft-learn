@@ -14,3 +14,7 @@ C:\Users\marco\OneDrive\Documentos\GitHub\CSharp-Learn\CalculadoraWpf\Calculador
 C:\Users\marco\OneDrive\Documentos\GitHub\CSharp-Learn\CalculadoraWpf\CalculadoraWpf\obj\Debug\CalculadoraWpf.csproj.CoreCompileInputs.cache
 C:\Users\marco\OneDrive\Documentos\GitHub\CSharp-Learn\CalculadoraWpf\CalculadoraWpf\obj\Debug\CalculadoraWpf.exe
 C:\Users\marco\OneDrive\Documentos\GitHub\CSharp-Learn\CalculadoraWpf\CalculadoraWpf\obj\Debug\CalculadoraWpf.pdb
+C:\Users\marco\OneDrive\Documentos\GitHub\CSharp-Learn\CalculadoraWpf\CalculadoraWpf\bin\Debug\CalculadoraWpf.exe.manifest
+C:\Users\marco\OneDrive\Documentos\GitHub\CSharp-Learn\CalculadoraWpf\CalculadoraWpf\bin\Debug\CalculadoraWpf.application
+C:\Users\marco\OneDrive\Documentos\GitHub\CSharp-Learn\CalculadoraWpf\CalculadoraWpf\obj\Debug\CalculadoraWpf.exe.manifest
+C:\Users\marco\OneDrive\Documentos\GitHub\CSharp-Learn\CalculadoraWpf\CalculadoraWpf\obj\Debug\CalculadoraWpf.application
